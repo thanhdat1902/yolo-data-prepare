@@ -1,0 +1,17 @@
+datasets/
+datasets_new/
+runs/
+__pycache__
+*.mp4
+*.pt
+datasets_org/
+runs_org/
+*.txt
+*.PNG
+models/
+images/
+annotations/
+env/
+pretrained_models/
+test_img/
+*.pt
